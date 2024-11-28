@@ -1,5 +1,10 @@
 # sorting_algorithms
-Sorting algorithms complexity analysis 
+Sorting algorithms - a time and space complexity analysis 
 
-Bubble Sort 
-Couting Sort
+**a. Insertion sort;/n
+  b. Selection sort;/n
+  c. Buble sort;/n
+  d. Bucket sort;/n
+  e. Shell sort;/n
+  f. Radix sort;/n
+  g. Counting sort.**
